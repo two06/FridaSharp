@@ -1,7 +1,7 @@
 # FridaSharp
 C# Wrapper around frida.dll
 
-## Building Frida
+## Building Frida.dll
 Follow the the instructions [here](https://www.frida.re/docs/building/). Building in release mode should produce smaller files (configurable in the solution build properties menu).
 
 ## Building FridaSharp
