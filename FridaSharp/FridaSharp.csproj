@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{BCA60FBD-7473-4739-A031-18413DE0DAD9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FridaConsole</RootNamespace>
-    <AssemblyName>FridaConsole</AssemblyName>
+    <RootNamespace>FridaSharp</RootNamespace>
+    <AssemblyName>FridaSharp</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

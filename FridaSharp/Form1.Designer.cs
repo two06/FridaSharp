@@ -1,4 +1,4 @@
-﻿namespace FridaConsole
+﻿namespace FridaSharp
 {
     partial class Form1
     {
@@ -102,7 +102,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
-            this.Text = "Frida Console";
+            this.Text = "FridaSharp";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

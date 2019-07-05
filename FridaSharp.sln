@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FridaConsole", "FridaConsole\FridaConsole.csproj", "{BCA60FBD-7473-4739-A031-18413DE0DAD9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FridaSharp", "FridaSharp\FridaSharp.csproj", "{BCA60FBD-7473-4739-A031-18413DE0DAD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
